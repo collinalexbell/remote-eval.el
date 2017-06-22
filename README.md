@@ -1,5 +1,11 @@
 # Emacs Remote Eval
-Evaluate Emacs code using an http request
+Evaluate Emacs code using an http request.
+
+This is my first emacs lisp program.
+
+Instead of injecting code over http like this repo does, the proper solution would be to just write an HTTP interface on top of the emacs code I would have other wise injected. 
+
+¯\_(ツ)_/¯
 
 ## Usage
 ```
