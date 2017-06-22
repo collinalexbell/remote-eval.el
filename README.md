@@ -13,5 +13,13 @@ Add this to your emacs init file
 (remote-eval-start 3333)
 ```
 
+Then go to this url
+
+```
+localhost:3333/?code=(print %22Hello World%22)
+```
+
+BE CAREFUL!! and enjoy
+
 
 
