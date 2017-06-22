@@ -1,7 +1,7 @@
-* Emacs Remote Eval
+# Emacs Remote Eval
 Evaluate Emacs code using an http request
 
-** Usage
+## Usage
 ```
 git clone https://github.com/SlightlyCyborg/remote-eval.el.git ~/.emacs.d/remote-eval
 ```
