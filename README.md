@@ -1,5 +1,5 @@
 # Emacs Remote Eval
-Evaluate Emacs code using an http request.
+Insecure evaluation of Emacs code using an http request.
 
 This is my first emacs lisp program.
 
