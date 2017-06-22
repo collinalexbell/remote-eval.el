@@ -19,7 +19,7 @@ Then go to this url
 localhost:3333/?code=(print %22Hello World%22)
 ```
 
-BE CAREFUL!! and enjoy
+Remind me to add password protection and SSL before going to defcon!!
 
 
 
